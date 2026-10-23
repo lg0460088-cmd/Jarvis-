@@ -1,0 +1,12 @@
+{
+  "pack": "friday",
+  "theme": "Green",
+  "name": "Sayan Datta",
+  "place": "West Bengal, India",
+  "lat": 28.6139,
+  "lon": 77.209,
+  "greet": true,
+  "assistant": "Jarvis",
+  "api_key": "AQ.Ab8RN6Le974yfaqDEstpEzYLKtTQjY_cNIbqteItoZy5kELtnA",
+  "setup_done": true
+}
